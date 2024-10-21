@@ -1,0 +1,8 @@
+{
+    "json_path": "D:/steam/steamapps/common/assettocorsa/server/presets-off/SERVER_01/cm_content/content.json",
+    "src_dir": "D:/steam/steamapps/common/assettocorsa/content/cars",
+    "out_dir": "C:/Users/Maste/Desktop/automation cars/test",
+    "log_file": "car_compression.log",
+    "num_procs": 4,
+    "compression_preset": 1 
+}
